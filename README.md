@@ -2,7 +2,7 @@
 
 PolSmash is a community platform for the Polish competitive **Super Smash Bros. Ultimate** scene. It brings tournament results, Elo rankings, player profiles, city communities, events, statistics, streams, and community posts into one responsive web application.
 
-[Visit PolSmash](https://polsmash.pl/) | [View the source](https://github.com/Coopy1997/polsmash)
+[Visit PolSmash] (https://polsmash.vercel.app/)/) |
 
 ## Product Overview
 
